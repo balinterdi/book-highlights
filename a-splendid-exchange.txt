@@ -1,6 +1,8 @@
 Title: A Splendid Exchange - How Trade Shaped the World
 Author: William J. Bernstein
+Published: 2008
 
+-----
   The middlemen cut out by the act, local smugglers and tea merchants,
 were not as happy with the new legislation. When news of its passage
 arrived in Boston in September 1773, these two groups took action
@@ -9,7 +11,7 @@ inconvenient fact that the act would save their countrymen a substantial
 amount of money, merchants and smugglers couched their arguments in the
 familiar protectionist language of national interest. (pg. 242 -- On the
 Boston Tea Party)
-
+-----
   Mercantilist theory was simplicity itself: a nation’s wealth was
 measured by the amount of gold and silver it possessed.
   In other words, international commerce constituted a zero-sum game in
@@ -23,7 +25,7 @@ repeated the mistake of King Midas. Precious metals are useful only
 because they can be exchanged for things we want or need. A nation’s
 true wealth, Martyn realized, was defined by how much it consumed: (pg.
 258)
-
+-----
   The popular image of an entire Chinese population and its economy
 ravaged by opium is a misconception. In the first place, the drug was
 quite expensive and largely the province of the mandarin and merchant
@@ -40,5 +42,54 @@ Western monarchy. Before 1800, the tea trade was, at least in the terms
 of the mercantilist ideology of the day, grossly favorable to the
 Chinese. The EIC’s records pinpoint 1806 as the year when the silver
 flow reversed. (pg. 289-290)
+-----
+Gutzlaff, an intensely anglophilic Pomeranian Lutheran who spoke most of
+the major Chinese dialects, successively marrie three Englishwomen and
+believed strongly in the ability of commerce to bring salvation to the
+pagan Chinese. Unfortunately for his historical reputation, he chose
+opium as his preferred vehicle of Christian redemption. (pg. 292)
+-----
+The Corn Law of 1804 served to reveal the mind-set and political power
+of England's growers, and also clearly illustrated the double-edged
+sword of protectionism, which seeks to shelter domestic producers (in
+this case, Britain's landed aristocracy) at the expense of consumers.
+Essentially, England's landowners sought to make permanent the high
+wartime grain prices. (pg. 303)
+-----
+The Stolper-Samuelson theorem predicts that the main beneficiaries of
+increase trade would be the owners of abundant factors in each nation:
+capitalists and laborers in England, and landowners (that is, farmers)
+in the United States. This is precisely what happened, and thus it was
+no coincidence that all these groups favored free trade. Likewise it is
+no surprise that the owners of scarce factors in each nation -English
+landowners and American laborers and capitalists- sought protection.
+(pg. 343)
+-----
+The political and moral benefits of trade had in fact been eloquently
+described by John Stuart Mill nearly a century before:
 
-
+  The economical advantages of commerce are surpassed in importance by
+  those of its effects which are intellectual and moral. It is hardly
+  possible to overrate the value, in the present low state of human
+  improvement, of placing human beings in contact with persons
+  dissimilar to themselves, and with modes of thought and action unlike
+  those with which they are familiar.... Commerce first taught nations
+  to see with goodwill the wealth and prosperity of one another. Before,
+  the patriot, unless sufficiently advanced to feel the world his
+  country, wished all countries weak, poor, and ill-governed but his
+  own: he now sees in their wealth and progress a direct source of
+  wealth and progress a direct source of wealth and progress to his own
+  country. (pg. 355)
+-----
+Free trade provides modest benefits for most of the population while
+greatly harming small groups in specific industries and occupations.
+Imagine, for example, that the United States forbade the importation of
+foreign-grown rice. This would greatly enrich a few thousand domestic
+growers, as they would make millions, and most Americans would not
+notice the few extra dollars per year hidden in their grocery bills.
+(pg. 358)
+-----
+A century and a half ago, the French Economist Frédéric Bastiat
+reportedly said, “When goods are not allowed to cross borders, soldiers
+will.” (pg. 376)
+-----
