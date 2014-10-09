@@ -1,0 +1,11 @@
+Title: Pragmatic Thinking and Learning
+Author: Andy Hunt
+Published: 2008
+
+-----
+Jerry Weinberg maintains that most clients will tell you their most
+serious problem, and its solution, in the first five minutes you talk
+with them. It's vital to listen to what the client has to say, instead
+of letting your attention wander to the cool solution you're dying to
+try. You can brainstorm solutions later, but first, be aware of what is.
+(pg. 198 -- Going Beyond Tennis)
