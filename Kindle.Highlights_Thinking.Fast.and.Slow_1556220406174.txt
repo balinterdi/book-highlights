@@ -1,0 +1,422 @@
+Thinking, Fast and Slow
+Daniel Kahneman
+
+Expert intuition strikes us as magical, but it is not. Indeed, each of us performs feats of intuitive expertise many times each day. Most of us are pitch-perfect in detecting anger in the first word of a telephone call, recognize as we enter a room that we were the subject of the conversation, and quickly react to subtle signs that the driver of the car in the next lane is dangerous. Our everyday intuitive abilities are no less marvelous than the striking insights of an experienced firefighter or physician—only more common.
+LOCATION: 176
+
+This is the essence of intuitive heuristics: when faced with a difficult question, we often answer an easier one instead, usually without noticing the substitution.
+LOCATION: 203
+
+The spontaneous search for an intuitive solution sometimes fails—neither an expert solution nor a heuristic answer comes to mind. In such cases we often find ourselves switching to a slower, more deliberate and effortful form of thinking.
+LOCATION: 204
+
+One of the significant discoveries of cognitive psychologists in recent decades is that switching from one task to another is effortful, especially under time pressure.
+LOCATION: 553
+
+The most effortful forms of slow thinking are those that require you to think fast.
+LOCATION: 564
+
+The conclusion is straightforward: self-control requires attention and effort. Another way of saying this is that controlling thoughts and behaviors is one of the tasks that System 2 performs.
+LOCATION: 623
+
+Baumeister’s group has repeatedly found that an effort of will or self-control is tiring; if you have had to force yourself to do something, you are less willing or less able to exert self-control when the next challenge comes around. The phenomenon has been named ego depletion.
+LOCATION: 626
+
+The most surprising discovery made by Baumeister’s group shows, as he puts it, that the idea of mental energy is more than a mere metaphor. The nervous system consumes more glucose than most other parts of the body, and effortful mental activity appears to be especially expensive in the currency of glucose.
+LOCATION: 648
+
+The bat-and-ball problem is our first encounter with an observation that will be a recurrent theme of this book: many people are overconfident, prone to place too much faith in their intuitions. They apparently find cognitive effort at least mildly unpleasant and avoid it as much as possible.
+LOCATION: 688
+
+Intelligence is not only the ability to reason; it is also the ability to find relevant material in memory and to deploy attention when needed.
+LOCATION: 711
+
+The core of his argument is that rationality should be distinguished from intelligence. In his view, superficial or “lazy” thinking is a flaw in the reflective mind, a failure of rationality.
+LOCATION: 765
+
+We call this a priming effect and say that the idea of EAT primes the idea of SOUP, and that WASH primes SOAP.
+LOCATION: 827
+
+This remarkable priming phenomenon—the influencing of an action by the idea—is known as the ideomotor effect.
+LOCATION: 846
+
+Reciprocal priming effects tend to produce a coherent reaction: if you were primed to think of old age, you would tend to act old, and acting old would reinforce the thought of old age.
+LOCATION: 853
+
+You can see why the common admonition to “act calm and kind regardless of how you feel” is very good advice: you are likely to be rewarded by actually feeling calm and kind.
+LOCATION: 867
+
+The general theme of these findings is that the idea of money primes individualism: a reluctance to be involved with others, to depend on others, or to accept demands from others.
+LOCATION: 887
+
+Can there be any doubt that the ubiquitous portraits of the national leader in dictatorial societies not only convey the feeling that “Big Brother Is Watching” but also lead to an actual reduction in spontaneous thought and independent action?
+LOCATION: 892
+
+A reliable way to make people believe in falsehoods is frequent repetition, because familiarity is not easily distinguished from truth.
+LOCATION: 997
+
+In addition to making your message simple, try to make it memorable. Put your ideas in verse if you can; they will be more likely to be taken as truth.
+LOCATION: 1016
+
+As should be clear by now, System 1 can respond to impressions of events of which System 2 is unaware. Indeed, the mere exposure effect is actually stronger for stimuli that the individual never consciously sees.
+LOCATION: 1081
+
+Mood evidently affects the operation of System 1: when we are uncomfortable and unhappy, we lose touch with our intuition.
+LOCATION: 1117
+
+We are evidently ready from birth to have impressions of causality, which do not depend on reasoning about patterns of causation.
+LOCATION: 1248
+
+The psychologist Paul Bloom, writing in The Atlantic in 2005, presented the provocative claim that our inborn readiness to separate physical and intentional causality explains the near universality of religious beliefs. He observes that “we perceive the world of objects as essentially separate from the world of minds, making it possible for us to envision soulless bodies and bodiless souls.” The two modes of causation that we are set to perceive make it natural for us to accept the two central beliefs of many religions: an immaterial divinity is the ultimate cause of the physical world, and immortal souls temporarily control our bodies while we live and leave them behind as we die. In Bloom’s view, the two concepts of causality were shaped separately by evolutionary forces, building the origins of religion into the structure of System 1.
+LOCATION: 1261
+
+The prominence of causal intuitions is a recurrent theme in this book because people are prone to apply causal thinking inappropriately, to situations that require statistical reasoning. Statistical thinking derives conclusions about individual cases from properties of categories and ensembles. Unfortunately, System 1 does not have the capability for this mode of reasoning; System 2 can learn to think statistically, but few people receive the necessary training.
+LOCATION: 1267
+
+Jumping to conclusions is efficient if the conclusions are likely to be correct and the costs of an occasional mistake acceptable, and if the jump saves much time and effort. Jumping to conclusions is risky when the situation is unfamiliar, the stakes are high, and there is no time to collect more information.
+LOCATION: 1289
+
+System 1 does not keep track of alternatives that it rejects, or even of the fact that there were alternatives. Conscious doubt is not in the repertoire of System 1; it requires maintaining incompatible interpretations in mind at the same time, which demands mental effort. Uncertainty and doubt are the domain of System 2.
+LOCATION: 1309
+
+The moral is significant: when System 2 is otherwise engaged, we will believe almost anything. System 1 is gullible and biased to believe, System 2 is in charge of doubting and unbelieving, but System 2 is sometimes busy, and often lazy. Indeed, there is evidence that people are more likely to be influenced by empty persuasive messages, such as commercials, when they are tired and depleted.
+LOCATION: 1323
+
+If you like the president’s politics, you probably like his voice and his appearance as well. The tendency to like (or dislike) everything about a person—including things you have not observed—is known as the halo effect.
+LOCATION: 1335
+
+Sequence matters, however, because the halo effect increases the weight of first impressions, sometimes to the point that subsequent information is mostly wasted.
+LOCATION: 1357
+
+WYSIATI facilitates the achievement of coherence and of the cognitive ease that causes us to accept a statement as true. It explains why we can think fast, and how we are able to make sense of partial information in a complex world. Much of the time, the coherent story we put together is close enough to reality to support reasonable action.
+LOCATION: 1440
+
+However, sustaining doubt is harder work than sliding into certainty. The law of small numbers is a manifestation of a general bias that favors certainty over doubt, which will turn up in many guises in following chapters.
+LOCATION: 1845
+
+If you consider how much you should pay for a house, you will be influenced by the asking price. The same house will appear more valuable if its listing price is high than if it is low, even if you are determined to resist the influence of this number; and so on—the list of anchoring effects is endless. Any number that you are asked to consider as a possible solution to an estimation problem will induce an anchoring effect.
+LOCATION: 1941
+
+We saw in the discussion of the law of small numbers that a message, unless it is immediately rejected as a lie, will have the same effect on the associative system regardless of its reliability. The gist of the message is the story, which is based on whatever information is available, even if the quantity of the information is slight and its quality is poor: WYSIATI.
+LOCATION: 2086
+
+However, you should assume that any number that is on the table has had an anchoring effect on you, and if the stakes are high you should mobilize yourself (your System 2) to combat the effect.
+LOCATION: 2099
+
+Merely reminding people of a time when they had power increases their apparent trust in their own intuition.
+LOCATION: 2231
+
+Slovic has argued, the amount of concern is not adequately sensitive to the probability of harm; you are imagining the numerator—the tragic story you saw on the news—and not thinking about the denominator.
+LOCATION: 2367
+
+The question about probability (likelihood) was difficult, but the question about similarity was easier, and it was answered instead. This is a serious mistake, because judgments of similarity and probability are not constrained by the same logical rules. It is entirely acceptable for judgments of similarity to be unaffected by base rates and also by the possibility that the description was inaccurate, but anyone who ignores base rates and the quality of evidence in probability assessments will certainly make mistakes.
+LOCATION: 2457
+
+I do not believe it is appropriate in scientific controversies, but I have come to accept as a fact of life that the norms of debate in the social sciences do not prohibit the political style of argument, especially when large issues are at stake—and the prevalence of bias in human judgment is a large issue.
+LOCATION: 2738
+
+This is a profoundly important conclusion. People who are taught surprising statistical facts about human behavior may be impressed to the point of telling their friends about what they have heard, but this does not mean that their understanding of the world has really changed.
+LOCATION: 2895
+
+You are more likely to learn something by finding surprises in your own behavior than by hearing surprising facts about people in general.
+LOCATION: 2902
+
+The fact that you observe regression when you predict an early event from a later event should help convince you that regression does not have a causal explanation.
+LOCATION: 2967
+
+The general rule is straightforward but has surprising consequences: whenever the correlation between two scores is imperfect, there will be regression to the mean.
+LOCATION: 3023
+
+Highly intelligent women tend to marry men who are less intelligent than they are.
+LOCATION: 3025
+
+I made up this newspaper headline, but the fact it reports is true: if you treated a group of depressed children for some time with an energy drink, they would show a clinically significant improvement. It is also the case that depressed children who spend some time standing on their head or hug a cat for twenty minutes a day will also show improvement. Most readers of such headlines will automatically infer that the energy drink or the cat hugging caused an improvement, but this conclusion is completely unjustified. Depressed children are an extreme group, they are more depressed than most other children—and extreme groups regress to the mean over time.
+LOCATION: 3050
+
+A preference for unbiased predictions is justified if all errors of prediction are treated alike, regardless of their direction. But there are situations in which one type of error is much worse than another. When a venture capitalist looks for “the next big thing,” the risk of missing the next Google or Facebook is far more important than the risk of making a modest investment in a start-up that ultimately fails. The goal of venture capitalists is to call the extreme cases correctly, even at the cost of overestimating the prospects of many other ventures.
+LOCATION: 3227
+
+For a conservative banker making large loans, the risk of a single borrower going bankrupt may outweigh the risk of turning down several would-be clients who would fulfill their obligations.
+LOCATION: 3231
+
+If you choose to delude yourself by accepting extreme predictions, however, you will do well to remain aware of your self-indulgence.
+LOCATION: 3240
+
+If an event had actually occurred, people exaggerated the probability that they had assigned to it earlier. If the possible event had not come to pass, the participants erroneously recalled that they had always considered it unlikely. Further experiments showed that people were driven to overstate the accuracy not only of their original predictions but also of those made by others.
+LOCATION: 3356
+
+There is a clear outcome bias. When the outcomes are bad, the clients often blame their agents for not seeing the handwriting on the wall—forgetting that it was written in invisible ink that became legible only afterward.
+LOCATION: 3367
+
+The worse the consequence, the greater the hindsight bias.
+LOCATION: 3374
+
+Because adherence to standard operating procedures is difficult to second-guess, decision makers who expect to have their decisions scrutinized with hindsight are driven to bureaucratic solutions—and to an extreme reluctance to take risks. As malpractice litigation became more common, physicians changed their procedures in multiple ways: ordered more tests, referred more cases to specialists, applied conventional treatments even when they were unlikely to help. These actions protected the physicians more than they benefited the patients, creating the potential for conflicts of interest. Increased accountability is a mixed blessing.
+LOCATION: 3380
+
+We all have a need for the reassuring message that actions have appropriate consequences, and that success will reward wisdom and courage. Many business books are tailor-made to satisfy this need.
+LOCATION: 3392
+
+Stories of how businesses rise and fall strike a chord with readers by offering what the human mind needs: a simple message of triumph and failure that identifies clear causes and ignores the determinative power of luck and the inevitability of regression. These stories induce and maintain an illusion of understanding, imparting lessons of little enduring value to readers who are all too eager to believe them.
+LOCATION: 3445
+
+Having observed one hour of a soldier’s behavior in an artificial situation, we felt we knew how well he would face the challenges of officer training and of leadership in combat.
+LOCATION: 3507
+
+Just as Nisbett and Borgida showed, people are often reluctant to infer the particular from the general.
+LOCATION: 3515
+
+In a paper titled “Trading Is Hazardous to Your Wealth,” they showed that, on average, the most active traders had the poorest results, while the investors who traded the least earned the highest returns.
+LOCATION: 3548
+
+There is general agreement among researchers that nearly all stock pickers, whether they know it or not—and few of them do—are playing a game of chance. The subjective experience of traders is that they are making sensible educated guesses in a situation of great uncertainty. In highly efficient markets, however, educated guesses are no more accurate than blind guesses.
+LOCATION: 3568
+
+Unfortunately, skill in evaluating the business prospects of a firm is not sufficient for successful stock trading, where the key question is whether the information about the firm is already incorporated in the price of its stock. Traders apparently lack the skill to answer this crucial question, but they appear to be ignorant of their ignorance.
+LOCATION: 3611
+
+Everything makes sense in hindsight, a fact that financial pundits exploit every evening as they offer convincing accounts of the day’s events. And we cannot suppress the powerful intuition that what makes sense in hindsight today was predictable yesterday. The illusion that we understand the past fosters overconfidence in our ability to predict the future.
+LOCATION: 3622
+
+Another reason for the inferiority of expert judgment is that humans are incorrigibly inconsistent in making summary judgments of complex information. When asked to evaluate the same information twice, they frequently give different answers. The extent of the inconsistency is often a matter of real concern. Experienced radiologists who evaluate chest X-rays as “normal” or “abnormal” contradict themselves 20% of the time when they see the same picture on separate occasions.
+LOCATION: 3738
+
+We know from studies of priming that unnoticed stimuli in our environment have a substantial influence on our thoughts and actions. These influences fluctuate from moment to moment. The brief pleasure of a cool breeze on a hot day may make you slightly more positive and optimistic about whatever you are evaluating at the time. The prospects of a convict being granted parole may change significantly during the time that elapses between successive food breaks in the parole judges’ schedule.
+LOCATION: 3745
+
+The important conclusion from this research is that an algorithm that is constructed on the back of an envelope is often good enough to compete with an optimally weighted formula, and certainly good enough to outdo expert judgment. This logic can be applied in many domains, ranging from the selection of stocks by portfolio managers to the choices of medical treatments by doctors or patients.
+LOCATION: 3772
+
+I learned from this finding a lesson that I have never forgotten: intuition adds value even in the justly derided selection interview, but only after a disciplined collection of objective information and disciplined scoring of separate traits.
+LOCATION: 3872
+
+A more general lesson that I learned from this episode was do not simply trust intuitive judgment—your own or that of others—but do not dismiss it, either.
+LOCATION: 3874
+
+“The situation has provided a cue; this cue has given the expert access to information stored in memory, and the information provides the answer. Intuition is nothing more and nothing less than recognition.
+LOCATION: 3956
+
+The acquisition of expertise in complex tasks such as high-level chess, professional basketball, or firefighting is intricate and slow because expertise in a domain is not a single skill but rather a large collection of miniskills. Chess is a good example. An expert player can understand a complex position at a glance, but it takes years to develop that level of ability.
+LOCATION: 3978
+
+Remember this rule: intuition cannot be trusted in the absence of stable regularities in the environment.
+LOCATION: 4034
+
+This should not come as a surprise: overly optimistic forecasts of the outcome of projects are found everywhere. Amos and I coined the term planning fallacy to describe plans and forecasts that are unrealistically close to best-case scenarios could be improved by consulting the statistics of similar cases
+LOCATION: 4189
+
+Contractors of kitchen renovations and of weapon systems readily admit (though not to their clients) that they routinely make most of their profit on additions to the original plan. The failures of forecasting in these cases reflect the customers’ inability to imagine how much their wishes will escalate over time. They end up paying much more than they would if they had made a realistic plan and stuck to it.
+LOCATION: 4203
+
+In such cases, the greatest responsibility for avoiding the planning fallacy lies with the decision makers who approve the plan. If they do not recognize the need for an outside view, they commit a planning fallacy.
+LOCATION: 4208
+
+We also tend to exaggerate our ability to forecast the future, which fosters optimistic overconfidence. In terms of its consequences for decisions, the optimistic bias may well be the most significant of the cognitive biases. Because optimistic bias can be both a blessing and a risk, you should be both happy and wary if you are temperamentally optimistic.
+LOCATION: 4274
+
+At this point in the book it comes as no surprise that people respond to a difficult question by answering an easier one. They compare themselves to the average without ever thinking about the average.
+LOCATION: 4361
+
+Overconfidence is another manifestation of WYSIATI: when we estimate a quantity, we rely on information that comes to mind and construct a coherent story in which the estimate makes sense. Allowing for the information that does not come to mind—perhaps because one never knew it—is impossible.
+LOCATION: 4396
+
+The study of CFOs showed that those who were most confident and optimistic about the S&P index were also overconfident and optimistic about the prospects of their own firm, which went on to take more risk than others. As Nassim Taleb has argued, inadequate appreciation of the uncertainty of the environment inevitably leads economic agents to take risks they should avoid.
+LOCATION: 4407
+
+I call it theory-induced blindness: once you have accepted a theory and used it as a tool in your thinking, it is extraordinarily difficult to notice its flaws. If you come upon an observation that does not seem to fit the model, you assume that there must be a perfectly good explanation that you are somehow missing. You give the theory the benefit of the doubt, trusting the community of experts who have accepted it.
+LOCATION: 4611
+
+Bad impressions and bad stereotypes are quicker to form and more resistant to disconfirmation than good ones.”
+LOCATION: 5036
+
+Gottman estimated that a stable relationship requires that good interactions outnumber bad interactions by at least 5 to 1.
+LOCATION: 5038
+
+People often adopt short-term goals that they strive to achieve but not necessarily to exceed. They are likely to reduce their efforts when they have reached an immediate goal, with results that sometimes violate economic logic.
+LOCATION: 5051
+
+In human affairs, the same simple rule explains much of what happens when institutions attempt to reform themselves, in “reorganizations” and “restructuring” of companies, and in efforts to rationalize a bureaucracy, simplify the tax code, or reduce medical costs. As initially conceived, plans for reform almost always produce many winners and some losers while achieving an overall improvement. If the affected parties have any political influence, however, potential losers will be more active and determined than potential winners; the outcome will be biased in their favor and inevitably more expensive and less effective than initially planned.
+LOCATION: 5089
+
+Because of the possibility effect, we tend to overweight small risks and are willing to pay far more than expected value to eliminate them altogether.
+LOCATION: 5207
+
+Many unfortunate human situations unfold in the top right cell. This is where people who face very bad options take desperate gambles, accepting a high probability of making things worse in exchange for a small hope of avoiding a large loss. Risk taking of this kind often turns manageable failures into disasters. The thought of accepting the large sure loss is too painful, and the hope of complete relief too enticing, to make the sensible decision that it is time to cut one’s losses.
+LOCATION: 5325
+
+As in many other choices that involve moderate or high probabilities, people tend to be risk averse in the domain of gains and risk seeking in the domain of losses.
+LOCATION: 5605
+
+Broad framing was obviously superior in this case. Indeed, it will be superior (or at least not inferior) in every case in which several decisions are to be contemplated together.
+LOCATION: 5626
+
+The ideal of logical consistency, as this example shows, is not achievable by our limited mind. Because we are susceptible to WYSIATI and averse to mental effort, we tend to make decisions as problems arise, even when we are specifically instructed to consider them jointly. We have neither the inclination nor the mental resources to enforce consistency on our preferences, and our preferences are not magically set to be coherent, as they are in the rational-agent model.
+LOCATION: 5631
+
+The combination of loss aversion and narrow framing is a costly curse. Individual investors can avoid that curse, achieving the emotional benefits of broad framing while also saving time and agony, by reducing the frequency with which they check how well their investments are doing.
+LOCATION: 5686
+
+A commitment not to change one’s position for several periods (the equivalent of “locking in” an investment) improves financial performance.
+LOCATION: 5693
+
+“I decided to evaluate my portfolio only once a quarter. I am too loss averse to make sensible decisions in the face of daily price fluctuations.”
+LOCATION: 5717
+
+“Each of our executives is loss averse in his or her domain. That’s perfectly natural, but the result is that the organization is not taking enough risk.”
+LOCATION: 5720
+
+Another argument against selling winners is the well-documented market anomaly that stocks that recently gained in value are likely to go on gaining at least for a short while. The net effect is large: the expected after-tax extra return of selling Tiffany rather than Blueberry is 3.4% over the next
+LOCATION: 5777
+
+A rational decision maker is interested only in the future consequences of current investments. Justifying earlier mistakes is not among the Econ’s concerns. The decision to invest additional resources in a losing account, when better investments are available, is known as the sunk-cost fallacy, a costly mistake that is observed in decisions large and small. Driving into the blizzard because one paid for tickets is a sunk-cost error.
+LOCATION: 5781
+
+The sunk-cost fallacy keeps people for too long in poor jobs, unhappy marriages, and unpromising research projects. I have often observed young scientists struggling to salvage a doomed project when they would be better advised to drop it and start a new one. Fortunately, research suggests that at least in some contexts the fallacy can be overcome. The sunk-cost fallacy is identified and taught as a mistake in both economics and business courses, apparently to good effect: there is evidence that graduate students in these fields are more willing than others to walk away from a failing project.
+LOCATION: 5798
+
+This short example illustrates a broad story: people expect to have stronger emotional reactions (including regret) to an outcome that is produced by action than to the same outcome when it is produced by inaction.
+LOCATION: 5834
+
+The asymmetry in the risk of regret favors conventional and risk-averse choices. The bias appears in many contexts. Consumers who are reminded that they may feel regret as a result of their choices show an increased preference for conventional options, favoring brand names over generics. The behavior of the managers of financial funds as the year approaches its end also shows an effect of anticipated evaluation: they tend to clean up their portfolios of unconventional and otherwise questionable stocks. Even life-or-death decisions can be affected. Imagine a physician with a gravely ill patient. One treatment fits the normal standard of care; another is unusual. The physician has some reason to believe that the unconventional treatment improves the patient’s chances, but the evidence is inconclusive. The physician who prescribes the unusual treatment faces a substantial risk of regret, blame, and perhaps litigation. In hindsight, it will be easier to imagine the normal choice; the abnormal choice will be easy to undo. True, a good outcome will contribute to the reputation of the physician who dared, but the potential benefit is smaller than the potential cost because success is generally a more normal outcome than is failure.
+LOCATION: 5847
+
+Even the most loving parents have finite resources of time and money to protect their child (the keeping-my-child-safe mental account has a limited budget), and it seems reasonable to deploy these resources in a way that puts them to best use. Money that could be saved by accepting a minute increase in the risk of harm from a pesticide could certainly be put to better use in reducing the child’s exposure to other harms, perhaps by purchasing a safer car seat or covers for electric sockets. The taboo tradeoff against accepting any increase in risk is not an efficient way to use the safety budget. In fact, the resistance may be motivated by a selfish fear of regret more than by a wish to optimize the child’s safety.
+LOCATION: 5882
+
+As the jurist Cass Sunstein points out, the precautionary principle is costly, and when interpreted strictly it can be paralyzing. He mentions an impressive list of innovations that would not have passed the test, including “airplanes, air conditioning, antibiotics, automobiles, chlorine, the measles vaccine, open-heart surgery, radio, refrigeration, smallpox vaccine, and X-rays.” The strong version of the precautionary principle is obviously untenable. But enhanced loss aversion is embedded in a strong and widely shared moral intuition; it originates in System 1. The dilemma between intensely loss-averse moral attitudes and efficient risk management does not have a simple and compelling solution.
+LOCATION: 5892
+
+You can also take precautions that will inoculate you against regret. Perhaps the most useful is to be explicit about the anticipation of regret. If you can remember when things go badly that you considered the possibility of regret carefully before deciding, you are likely to experience less of it. You should also know that regret and hindsight bias will come together, so anything you can do to preclude hindsight is likely to be helpful. My personal hindsight-avoiding policy is to be either very thorough or completely casual when making a decision with long-term consequences. Hindsight is worse when you think a little, just enough to tell yourself later, “I almost made a better choice.
+LOCATION: 5905
+
+This is a preference reversal: people choose B over A, but if they imagine owning only one of them, they set a higher value on A than on B. As in the burglary scenarios, the preference reversal occurs because joint evaluation focuses attention on an aspect of the situation—the fact that bet A is much less safe than bet B—which was less salient in single evaluation. The features that caused the difference between the judgments of the options in single evaluation—the poignancy of the victim being in the wrong grocery store and the anchoring on the prize—are suppressed or irrelevant when the options are evaluated jointly. The emotional reactions of System 1 are much more likely to determine single evaluation; the comparison that occurs in joint evaluation always involves a more careful and effortful assessment, which calls for System 2.
+LOCATION: 5959
+
+The result illustrates Hsee’s evaluability hypothesis: The number of entries is given no weight in single evaluation, because the numbers are not “evaluable” on their own. In joint evaluation, in contrast, it is immediately obvious that dictionary B is superior on this attribute, and it is also apparent that the number of entries is far more important than the condition of the cover.
+LOCATION: 6054
+
+As we have seen, rationality is generally served by broader and more comprehensive frames, and joint evaluation is obviously broader than single evaluation. Of course, you should be wary of joint evaluation when someone who controls what you see has a vested interest in what you choose.
+LOCATION: 6074
+
+“It is often the case that when you broaden the frame, you reach more reasonable decisions.”
+LOCATION: 6095
+
+Thaler described the debate about whether gas stations would be allowed to charge different prices for purchases paid with cash or on credit. The credit-card lobby pushed hard to make differential pricing illegal, but it had a fallback position: the difference, if allowed, would be labeled a cash discount, not a credit surcharge. Their psychology was sound: people will more readily forgo a discount than pay a surcharge. The two may be economically equivalent, but they are not emotionally equivalent.
+LOCATION: 6123
+
+Reframing is effortful and System 2 is normally lazy. Unless there is an obvious reason to do otherwise, most of us passively accept decision problems as they are framed and therefore rarely have an opportunity to discover the extent to which our preferences are frame-bound rather than reality-bound.
+LOCATION: 6180
+
+But Schelling showed his class that they could not logically reject both proposals. Set the two formulations next to each other. The difference between the tax due by a childless family and by a family with two children is described as a reduction of tax in the first version and as an increase in the second. If in the first version you want the poor to receive the same (or greater) benefit as the rich for having children, then you must want the poor to pay at least the same penalty as the rich for being childless.
+LOCATION: 6222
+
+The case of organ donation shows that the debate about human rationality can have a large effect in the real world. A significant difference between believers in the rational-agent model and the skeptics who question it is that the believers simply take it for granted that the formulation of a choice cannot determine preferences on significant problems. They will not even be interested in investigating the problem—and so we are often left with inferior outcomes. Skeptics about rationality are not surprised. They are trained to be sensitive to the power of inconsequential factors as determinants of preference—my hope is that readers of this book have acquired this sensitivity.
+LOCATION: 6298
+
+It also suggested that, at least in some cases, experienced utility is the criterion by which a decision should be assessed.
+LOCATION: 6334
+
+Peak-end rule:
+LOCATION: 6363
+
+Duration neglect:
+LOCATION: 6364
+
+It was the bad luck of patient A that the procedure ended at a bad moment, leaving him with an unpleasant memory.
+LOCATION: 6368
+
+lowering the peak intensity of pain could be more important than minimizing the duration of the procedure.
+LOCATION: 6375
+
+gradual relief may be preferable to abrupt relief
+LOCATION: 6376
+
+The remembering self is sometimes wrong, but it is the one that keeps score and governs what we learn from living, and it is the one that makes decisions.
+LOCATION: 6391
+
+The peak-end rule predicts a worse memory for the short than for the long trial, and duration neglect predicts that the difference between 90 seconds and 60 seconds of pain will be ignored.
+LOCATION: 6412
+
+Fully 80% of the participants who reported that their pain diminished during the final phase of the longer episode opted to repeat it, thereby declaring themselves willing to suffer 30 seconds of needless pain in the anticipated third trial.
+LOCATION: 6414
+
+The cold-hand experiment, like my old injections puzzle, revealed a discrepancy between decision utility and experienced utility.
+LOCATION: 6422
+
+For an objective observer evaluating the episode from the reports of the experiencing self, what counts is the “area under the curve” that integrates pain over time; it has the nature of a sum. The memory that the remembering self keeps, in contrast, is a representative moment, strongly influenced by the peak and the end.
+LOCATION: 6428
+
+“You are thinking of your failed marriage entirely from the perspective of the remembering self. A divorce is like a symphony with a screeching sound at the end—the fact that it ended badly does not mean it was all bad.”
+LOCATION: 6459
+
+A story is about significant events and memorable moments, not about time passing. Duration neglect is normal in a story, and the ending often defines its character. The same core features appear in the rules of narratives and in the memories of colonoscopies, vacations, and films. This is how the remembering self works: it composes stories and keeps them for future reference.
+LOCATION: 6477
+
+As expected from this idea, Diener and his students also found a less-is-more effect, a strong indication that an average (prototype) has been substituted for a sum. Adding 5 “slightly happy” years to a very happy life caused a substantial drop in evaluations of the total happiness of that life.
+LOCATION: 6499
+
+In intuitive evaluation of entire lives as well as brief episodes, peaks and ends matter but duration does not.
+LOCATION: 6506
+
+Duration appears to matter in these situations, but this is only because the quality of the end changes with the length of the episode. The mother is more depleted and helpless after 24 hours than after 6, and the vacationer is more refreshed and rested after 6 days than after 3. What truly matters when we intuitively assess such episodes is the progressive deterioration or improvement of the ongoing experience, and how the person feels at the end.
+LOCATION: 6508
+
+Living with children also imposes a significant cost in the currency of daily feelings—reports of stress and anger are common among parents, but the adverse effects on life evaluation are smaller.
+LOCATION: 6647
+
+Can money buy happiness? The conclusion is that being poor makes one miserable, and that being rich may enhance one’s life satisfaction, but does not (on average) improve experienced well-being.
+LOCATION: 6651
+
+Severe poverty amplifies the experienced effects of other misfortunes of life. In particular, illness is much worse for the very poor than for those who are more comfortable.
+LOCATION: 6653
+
+The satiation level beyond which experienced well-being no longer increases was a household income of about $75,000 in high-cost areas (it could be less in areas where the cost of living is lower). The average increase of experienced well-being associated with incomes beyond that level was precisely zero.
+LOCATION: 6657
+
+Why do these added pleasures not show up in reports of emotional experience? A plausible interpretation is that higher income is associated with a reduced ability to enjoy the small pleasures of life. There is suggestive evidence in favor of this idea: priming students with the idea of wealth reduces the pleasure their face expresses as they eat a bar of chocolate!
+LOCATION: 6661
+
+The general conclusion is as clear for well-being as it was for colonoscopies: people’s evaluations of their lives and their actual experience may be related, but they are also different. Life satisfaction is not a flawed measure of their experienced well-being, as I thought some years ago. It is something else entirely.
+LOCATION: 6665
+
+Experienced well-being is on average unaffected by marriage, not because marriage makes no difference to happiness but because it changes some aspects of life for the better and others for the worse.
+LOCATION: 6720
+
+The people who wanted money and got it were significantly more satisfied than average; those who wanted money and didn’t get it were significantly more dissatisfied. The same principle applies to other goals—one recipe for a dissatisfied adulthood is setting goals that are especially difficult to attain.
+LOCATION: 6740
+
+Nothing in life is as important as you think it is when you are thinking about it.
+LOCATION: 6756
+
+The essence of the focusing illusion is WYSIATI, giving too much weight to the climate, too little to all the other determinants of well-being.
+LOCATION: 6773
+
+Thoughts of any aspect of life are more likely to be salient if a contrasting alternative is highly available.
+LOCATION: 6788
+
+During the last ten years we have learned many new facts about happiness. But we have also learned that the word happiness does not have a simple meaning and should not be used as if it does.
+LOCATION: 6844
+
+“She thought that buying a fancy car would make her happier, but it turned out to be an error of affective forecasting.”
+LOCATION: 6847
+
+The two selves are the experiencing self, which does the living, and the remembering self, which keeps score and makes the choices.
+LOCATION: 6859
+
+The central fact of our existence is that time is the ultimate finite resource, but the remembering self ignores that reality. The neglect of duration combined with the peak-end rule causes a bias that favors a short period of intense joy over a long period of moderate happiness.
+LOCATION: 6873
+
+Duration neglect also makes us prone to accept a long period of mild unpleasantness because the end will be better, and it favors giving up an opportunity for a long happy period if it is likely to have a poor ending.
+LOCATION: 6876
+
+As I know from experience, System 1 is not readily educable. Except for some effects that I attribute mostly to age, my intuitive thinking is just as prone to overconfidence, extreme predictions, and the planning fallacy as it was before I made a study of these issues. I have improved only in my ability to recognize situations in which errors are likely:
+LOCATION: 7026
+
+The way to block errors that originate in System 1 is simple in principle: recognize the signs that you are in a cognitive minefield, slow down, and ask for reinforcement from System 2.
+LOCATION: 7030
+
+Unfortunately, this sensible procedure is least likely to be applied when it is needed most. We would all like to have a warning bell that rings loudly whenever we are about to make a serious error, but no such bell is available, and cognitive illusions are generally more difficult to recognize than perceptual illusions. The voice of reason may be much fainter than the loud and clear voice of an erroneous intuition, and questioning your intuitions is unpleasant when you face the stress of a big decision. More doubt is the last thing you want when you are in trouble.
+LOCATION: 7033
+
+Organizations are better than individuals when it comes to avoiding errors, because they naturally think more slowly and have the power to impose orderly procedures.
+LOCATION: 7039
